@@ -1,0 +1,28 @@
+h1
+{
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+h2
+{
+    color: blue;
+   text-decoration: underline; 
+}
+
+body
+{
+    background-image: url("Tulips.jpg");
+    width: 900px ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto ;
+	padding: 20px 0 ;
+	text-align: center ;
+	font: 1.3em "Trebuchet MS", helvetica, sans-serif ;
+	
+}
+
+
